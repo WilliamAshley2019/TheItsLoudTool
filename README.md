@@ -99,6 +99,10 @@ See [JUCE License](https://juce.com) for details.
 
 VST3 is a trademark of Steinberg Media Technologies GmbH.
 
----
+ NOTE: This plugin was inspired by the Dolby LM100 Broadcast Loudness meter but no dolby sourcecode was used in its development. It expands on the idea
+ of a loudness monitor and aims to apply specific loudness monitoring methods to become loudness transforms using a variety of loudness theories that will be touched on as they are developed more into this plugins next version.
 
-**Enjoy making it loud — transparently.**
+ FUTURE GOALS - incorporating "stem intelligence"  like Dolby's dialog intelligence but for specific stem types not just dialog so it can fill a greater 
+ music production role rather than just broadcast monitoring role.
+ There are some more loudness technologies from the past I would like and add a few more loudness type dials. The VU meter is likely to be changed a little
+ making it more traditional so the next version vu style display for the needle etc.. will likely be cleaned up a little.

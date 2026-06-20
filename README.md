@@ -1,6 +1,6 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![JUCE](https://img.shields.io/badge/Built%20with-JUCE%208-blue)](https://juce.com)
-[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Mac-lightgrey)]()
+[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20-lightgrey)]()
 [![Format](https://img.shields.io/badge/Format-VST3%20%7C%20-orange)]()
 
 ## Author: **William Ashley** — AlphaAudio
